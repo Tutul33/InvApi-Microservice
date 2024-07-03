@@ -1,0 +1,2 @@
+﻿RabbitMQ server must be ran on 
+Erlang/OTP must be installed.
